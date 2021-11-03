@@ -4,7 +4,7 @@ This code repo was build as a part of the kaggle competition 1 Classification of
 
 The code kaggle_competition_MLR_scratch.ipynb requires numpy, pandas and matplotlib libraries to run and it has the implementation of Logistic Regression from scratch.
 
-The code Kaggle_competetion_Sklearn requires numpy, pandas, matplotlib, seaborn and sklearn libraries to run.
+The code Kaggle_competetion_Sklearn_final.ipynb requires numpy, pandas, matplotlib, seaborn and sklearn libraries to run.
 
 The train data(train.csv) and test data(test.csv) must be uploaded in the Google drive because I used Google Colaboratory for the entire project and it's present under Data folder.
 
